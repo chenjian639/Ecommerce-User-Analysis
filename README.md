@@ -1,7 +1,6 @@
 # 电商平台用户增长分析与运营策略优化
 
 > 基于电商平台用户行为日志数据的完整数据分析项目，模拟互联网公司数据分析工作流程。
-> 适合写入本科生数据分析方向简历。
 
 ---
 
@@ -59,8 +58,7 @@ Ecommerce_User_Analysis/
 ├── report/                      # 分析报告
 │   ├── business_analysis_report.md  # 完整商业分析报告 [来源: 模块12]
 │   ├── ab_test_design.md        # A/B Test 实验设计 [来源: 模块10]
-│   ├── dashboard_design.md      # Dashboard 看板设计 [来源: 模块11]
-│   └── resume_description.md    # 可直接写入简历的项目描述 [来源: 模块13]
+│   └── dashboard_design.md      # Dashboard 看板设计 [来源: 模块11]
 │
 ├── src/                         # Python 源代码 (8个模块)
 │   ├── 01_data_cleaning.py      # 模块1: 数据清洗 + 特征工程
@@ -91,7 +89,6 @@ Ecommerce_User_Analysis/
 | 10 | **A/B Test设计** | 首页推荐算法优化完整实验方案 | `report/ab_test_design.md` |
 | 11 | **Dashboard设计** | 7类图表设计及Power BI/Tableau/Excel选型 | `report/dashboard_design.md` |
 | 12 | **商业报告** | 完整分析报告、10条运营建议 | `report/business_analysis_report.md` |
-| 13 | **简历描述** | 可直接写入简历的项目经历（中英双语） | `report/resume_description.md` |
 
 > 每个模块都有独立的 Python 源码文件（`src/01~08`），可单独运行或按顺序复现全部分析流程。
 
@@ -168,7 +165,7 @@ python src/08_time_analysis.py      # 时间分析
 
 ## 联系
 
-本项目为数据分析方向简历项目，欢迎交流与建议。
+欢迎交流与建议。
 
 ---
 
